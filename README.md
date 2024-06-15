@@ -22,10 +22,3 @@ $ pip install -r requirements.txt
 $ streamlit run app.py
 ```
 
-<br>
-<br>
-
-# kakaotalk_analysis
-# kakaotalkanalysis
-# kakaotalkanalysis
-# kakaotalk_analysis
